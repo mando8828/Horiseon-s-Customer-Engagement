@@ -75,11 +75,7 @@ p {
     margin-left: 20px;
 }
 
-<<<<<<< HEAD
 .benefit {
-=======
-.benefits {
->>>>>>> 7d784350f33c9e023ec333bb9a0a17ae8f775f93
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -90,39 +86,23 @@ p {
     background-color: #2589bd;
 }
 
-<<<<<<< HEAD
 .benefit-margin {
-=======
-.margin-header {
->>>>>>> 7d784350f33c9e023ec333bb9a0a17ae8f775f93
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-<<<<<<< HEAD
 .benefit-margin h3 {
-=======
-.margin-header h3 {
->>>>>>> 7d784350f33c9e023ec333bb9a0a17ae8f775f93
     margin-bottom: 10px;
     text-align: center;
 }
 
-<<<<<<< HEAD
 .benefit-margin img {
-=======
-.margin-header img {
->>>>>>> 7d784350f33c9e023ec333bb9a0a17ae8f775f93
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-<<<<<<< HEAD
 .services {
-=======
-.services-descriptions {
->>>>>>> 7d784350f33c9e023ec333bb9a0a17ae8f775f93
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -131,19 +111,11 @@ p {
     color: #ffffff;
 }
 
-<<<<<<< HEAD
 .services img {
     max-height: 200px;
 }
 
 .services h2 {
-=======
-.services-descriptions img {
-    max-height: 200px;
-}
-
-.services-descriptions h2 {
->>>>>>> 7d784350f33c9e023ec333bb9a0a17ae8f775f93
     margin-bottom: 20px;
     font-size: 36px;
 }
